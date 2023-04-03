@@ -1,27 +1,66 @@
-# Memoteca
+<h1>Memoteca</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+<p>O Memoteca é um site onde você pode adicionar suas melhores ideias!!</p>
 
-## Development server
+<h3>Página home:</h3>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> É onde ficará listado todas as suas ideias
 
-## Code scaffolding
+<img src="https://user-images.githubusercontent.com/73480168/229635772-5cd5e5a5-14d0-4526-979b-ef34403430b4.png"/>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h3>Página de cadastro:</h3>
 
-## Build
+> Aqui você adicionará sua ideia 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img src="https://user-images.githubusercontent.com/73480168/229636359-914d2c94-8b43-471b-9cb4-86ea0fd1e725.png"/>
 
-## Running unit tests
+<h3>Excluir</h3>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> Você também poderá excluir um pensamento 
 
-## Running end-to-end tests
+<img src="https://user-images.githubusercontent.com/73480168/229636572-010f9f55-9c4c-49e6-873c-b4d9daffb5ce.png"/>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<h3>Página de edição:</h3>
 
-## Further help
+> Você também poderá editar um pensamento 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img src="https://user-images.githubusercontent.com/73480168/229636890-52beefc7-53f4-4546-81ad-00a1af2c27a6.png"/>
+
+
+<h2>Pré-requisitos</h2>
+<p>Para testar a aplicação em sua máquina:</p>
+<p>Linux e MacOS:</p>
+
+```
+sudo git clone https://github.com/JoneilsonLima/Memoteca-Projeto-Angular.git
+```
+
+Windows:
+
+```
+git clone https://github.com/JoneilsonLima/Memoteca-Projeto-Angular.git
+```
+
+<h2>Em seguida:</h2>
+
+<ul>
+
+<li>Abra a pasta do projeto e, no terminal, utilize o comando <b>npm install</b> para instalar as dependências do projeto.</li>
+<li>Após instalar as dependências, dentro da pasta da aplicação, digite o comando <b>ng serve</b> no terminal para executar o projeto.</li>
+<li>Em outro terminal, entre na pasta <b>backend</b> com o comando <b>cd backend</b> e digite <b>npm start</b> para inicializar a API.</li>
+<li>Abra seu navegador e digite http://localhost:4200 para acessar a aplicação.</li>
+
+</ul>
+
+
+<h2>Licença</h2>
+<p>Este projeto é de uso gratuito e não contém nenhuma licença.</p>
+
+
+
+
+
+
+
+
+
