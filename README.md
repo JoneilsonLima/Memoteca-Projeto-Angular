@@ -27,7 +27,34 @@
 <img src="https://user-images.githubusercontent.com/73480168/229636890-52beefc7-53f4-4546-81ad-00a1af2c27a6.png"/>
 
 
+<h2>Pré-requisitos</h2>
+<p>Para testar a aplicação em sua máquina:</p>
+<p>Linux e MacOS:</p>
 
+```
+sudo git clone https://github.com/JoneilsonLima/Memoteca-Projeto-Angular.git
+```
+
+Windows:
+
+```
+git clone https://github.com/JoneilsonLima/Memoteca-Projeto-Angular.git
+```
+
+<h2>Em seguida:</h2>
+
+<ul>
+
+<li>Abra a pasta do projeto e, no terminal, utilize o comando <b>npm install</b> para instalar as dependências do projeto.</li>
+<li>Após instalar as dependências, dentro da pasta da aplicação, digite o comando <b>ng serve</b> no terminal para executar o projeto.</li>
+<li>Em outro terminal, entre na pasta <b>backend</b> com o comando <b>cd backend</b> e digite <b>npm start</b> para inicializar a API.</li>
+<li>Abra seu navegador e digite http://localhost:4200 para acessar a aplicação.</li>
+
+</ul>
+
+
+<h2>Licença</h2>
+<p>Este projeto é de uso gratuito e não contém nenhuma licença.</p>
 
 
 
