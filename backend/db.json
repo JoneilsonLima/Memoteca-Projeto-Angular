@@ -18,7 +18,8 @@
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Nay",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     }
   ]
 }
