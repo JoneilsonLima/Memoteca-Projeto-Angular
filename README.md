@@ -6,7 +6,7 @@
 
 > É onde ficará listado todas as suas ideias
 
-<img src="https://user-images.githubusercontent.com/73480168/231592139-0c4d1abc-6a88-48f7-b95f-432965c82033.png"/>
+<img src="https://user-images.githubusercontent.com/73480168/232145383-10f78993-9e77-45f0-b96c-bf206d0dccc1.png"/>
 
 <h3>Página de cadastro:</h3>
 
